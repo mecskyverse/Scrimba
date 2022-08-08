@@ -1,18 +1,23 @@
-import { useState } from 'react'
-import './App.css'
-import Main from './components/Main'
-import Navbar from './components/Navbar'
+import React from "react"
+import Info from "./components/Info.js"
+import About from "./components/About.js"
+import Interest from "./components/Interests.js"
+// import Footer from "./components/Footer.js"
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export default function App() {
   return (
-    <div className='main-div'>
-      <Navbar />
-      <Main />
+    <div className="container">
+
+      <div className="profile"></div>
+      <div className="block">
+        <Info />
+        <About />
+        <Interest />
+      </div>
+
+
 
     </div>
+
   )
 }
-
-export default App

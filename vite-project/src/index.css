@@ -25,3 +25,21 @@ h1 {
   align-self: center;
 
 }
+
+.block {
+  display: flex;
+  width: 317px;
+  height: 400px;
+  background-color: #1A1B21;
+  flex-direction: column;
+  align-content: center;
+  align-self: center;
+}
+
+.name {
+  color: #FFFFFF;
+  padding-top: 16px;
+  font-size: 25px;
+  font-style: bold;
+  text-align: center;
+}

@@ -67,3 +67,37 @@ h1 {
   color: #F5F5F5;
   font-size: 11px;
 }
+
+.interest {
+  align-self: flex-start;
+  font-size: 16px;
+  margin-bottom: 4px
+}
+
+.email,
+.linke {
+
+  border: 2px solid transparent;
+  background-color: #D1D5DB;
+  padding: 10px 29px 10px 40px;
+  margin: 15px 10px 0px 36px;
+  border-radius: 7px;
+  font-size: 14px;
+  color: #374151;
+
+}
+
+.linke {
+  padding: 10px 30px 10px 40px;
+  margin-left: 5px;
+  background-color: #5093E2;
+  color: white;
+
+}
+
+.footer {
+  width: 317px;
+  height: 64px;
+  background-color: #161619;
+  border-radius: 0px 0px 10px 10px;
+}

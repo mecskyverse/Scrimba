@@ -6,7 +6,7 @@ export default function Info() {
 
             <div className="name">Aakash Verma</div>
             <div className="front"> FrontEnd Developer</div>
-            <div className="web"><a href="#" className="web">http://github.com/mecskyverse</a>
+            <div className="web"><a href="http://github.com/mecskyverse" className="web">meckskyverse.com</a>
             </div>
             <span className="email">Email</span>
             <span className="linke">Linkedln</span>

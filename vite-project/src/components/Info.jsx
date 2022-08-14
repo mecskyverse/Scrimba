@@ -4,9 +4,9 @@ export default function Info() {
     return (
         <div>
 
-            <div className="name">Laura Smith</div>
+            <div className="name">Aakash Verma</div>
             <div className="front"> FrontEnd Developer</div>
-            <div className="web"><a href="#" className="web">laurasmith.website</a>
+            <div className="web"><a href="#" className="web">http://github.com/mecskyverse</a>
             </div>
             <span className="email">Email</span>
             <span className="linke">Linkedln</span>

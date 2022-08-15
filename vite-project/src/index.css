@@ -8,7 +8,7 @@ h1 {
 .container {
   display: flex;
   width: 100vw;
-  height: 100vh;
+  height: 150vh;
   background-color: #23252C;
   flex-direction: column;
   justify-content: center;
@@ -101,4 +101,14 @@ h1 {
   height: 64px;
   background-color: #161619;
   border-radius: 0px 0px 10px 10px;
+  padding-top: 20px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
 }

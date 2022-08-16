@@ -75,26 +75,18 @@ h1 {
   margin-bottom: 4px
 }
 
-.email,
-.linke {
+.div-icon {
+  display: flex;
+  justify-content: space-around;
+}
 
-  border: 2px solid transparent;
-  background-color: #D1D5DB;
-  padding: 10px 29px 10px 40px;
-  margin: 15px 10px 0px 36px;
-  border-radius: 7px;
-  font-size: 14px;
-  color: #374151;
+.info-icon {
+  width: 115px;
+
 
 }
 
-.linke {
-  padding: 10px 30px 10px 40px;
-  margin-left: 5px;
-  background-color: #5093E2;
-  color: white;
 
-}
 
 .footer {
   width: 317px;

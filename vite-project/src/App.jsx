@@ -8,8 +8,8 @@ export default function App() {
   return (
     <div className="container">
 
-      <div className="profile"></div>
-      <div className="block">
+      <div className="profile shadow"></div>
+      <div className="block shadow">
         <Info />
         <About />
         <Interest />
